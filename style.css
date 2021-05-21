@@ -1,0 +1,54 @@
+.grid{
+    background-color: cornflowerblue;
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+p{
+    text-align: center;
+}
+
+.press{
+    background-color: darkgreen;
+    color: deeppink;
+    text-align: center;
+}
+
+.item{
+    background-color: chocolate;
+    border: solid;
+    border-radius: 10px;
+}
+
+.header{
+    background-color: blanchedalmond;
+    display :flex;
+    justify-content: center;
+}
+
+.menu{
+    background-color : gainsboro;
+    display :flex;
+    justify-content: space-evenly;
+}
+
+.origami{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.follow{
+    background-color: cyan;
+    text-align: left;
+    font-size: x-large;
+}
+
+.last{
+    border: solid;
+    background-color: crimson;
+    display: flex;
+    justify-content: space-around;
+}
